@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayoubbarkaoui101
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning django technologies
+- 🌱 I’m currently an expert MERN developer
 - 📫 How to reach me : Instagram : @ayoubbarkaoui101
 
 <!---
